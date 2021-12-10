@@ -1,7 +1,7 @@
 # melody
 вёрстка - жилой комплекс Мелодия
 ## Поект выполнен LEO STUDIO
-### tehnologi
+### technology
 -css
 -html
 -js
