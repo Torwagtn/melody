@@ -4,4 +4,4 @@
 ### tehnologi
 -css
 -html
-- js
+-js
